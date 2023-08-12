@@ -5,4 +5,6 @@ I've crafted an interactive demonstration that will help you grasp the fundament
 🌟  
 📧 : sakriwassim@gmail.com  
 📞: +216 25881610
-![Screenshot 2023-08-09 102419](https://github.com/sakriwassim/expense-tracker/assets/62904371/e76c4119-7f4d-407a-aead-390df331364a)
+
+https://github.com/sakriwassim/expense-tracker/assets/62904371/3ccc054b-98b1-41fc-85c1-df203aef35d4
+
