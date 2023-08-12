@@ -1,9 +1,10 @@
 import './ExpenseDate.css';
 
-function ExpenseDate() {
+function ExpenseDate(props) {
 
 
- const date = new Date(Date.UTC(2012, 11, 20, 3, 0, 0));
+ // const date = new Date(Date.UTC(2012, 11, 20, 3, 0, 0));
+ const date = props.date;
 
  const month = date.toLocaleString("en-us", { month: "long" });
  const day = date.toLocaleString("en-us", { day: "2-digit" });
